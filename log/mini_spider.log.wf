@@ -1,0 +1,12 @@
+ERROR: 11-24 15:58:24: spider.py:74 * 1154324832 HTTP ERROR http://pycm.baidu.com:8081/page4.html: HTTP Error 404: Not Found
+ERROR: 11-24 15:58:25: spider.py:74 * 1112365408 HTTP ERROR http://pycm.baidu.com:8081/1/page1_3.html: HTTP Error 404: Not Found
+ERROR: 11-24 15:58:25: spider.py:74 * 1164814688 HTTP ERROR http://pycm.baidu.com:8081/1/page1_4.html: HTTP Error 404: Not Found
+ERROR: 11-24 16:03:37: spider.py:74 * 1142233440 HTTP ERROR http://pycm.baidu.com:8081/page4.html: HTTP Error 404: Not Found
+ERROR: 11-24 16:03:38: spider.py:74 * 1110763872 HTTP ERROR http://pycm.baidu.com:8081/1/page1_4.html: HTTP Error 404: Not Found
+ERROR: 11-24 16:03:38: spider.py:74 * 1152723296 HTTP ERROR http://pycm.baidu.com:8081/1/page1_3.html: HTTP Error 404: Not Found
+ERROR: 11-24 16:03:53: spider.py:74 * 1136208224 HTTP ERROR http://pycm.baidu.com:8081/page4.html: HTTP Error 404: Not Found
+ERROR: 11-24 16:03:54: spider.py:74 * 1087203680 HTTP ERROR http://pycm.baidu.com:8081/1/page1_4.html: HTTP Error 404: Not Found
+ERROR: 11-24 16:03:54: spider.py:74 * 1167677792 HTTP ERROR http://pycm.baidu.com:8081/1/page1_3.html: HTTP Error 404: Not Found
+ERROR: 11-25 12:06:06: spider.py:74 * 1094461792 HTTP ERROR http://pycm.baidu.com:8081/page4.html: HTTP Error 404: Not Found
+ERROR: 11-25 12:06:08: spider.py:74 * 1124804960 HTTP ERROR http://pycm.baidu.com:8081/1/page1_3.html: HTTP Error 404: Not Found
+ERROR: 11-25 12:06:08: spider.py:74 * 1166764384 HTTP ERROR http://pycm.baidu.com:8081/1/page1_4.html: HTTP Error 404: Not Found

@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://svn.baidu.com/goodcoder/trunk/shechenglu/Python-id-3731/bs4/builder
+https://svn.baidu.com/goodcoder
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+688347a3-1a7e-4d08-b7af-20cad322083a
+
+_lxml.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+_html5lib.py
+file
+
+
+
+add
+
+_htmlparser.py
+file
+
+
+
+add
+

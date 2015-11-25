@@ -1,0 +1,80 @@
+INFO: 11-24 15:54:25: spider.py:123 * 1084496224 Invalid url: javascript://pycm.baidu.com:8081/location.href="page4.html"
+INFO: 11-24 15:54:29: work_thread.py:44 * 1094986080 Thread exit method has been called, quit
+INFO: 11-24 15:54:29: work_thread.py:44 * 1111759200 Thread exit method has been called, quit
+INFO: 11-24 15:54:29: work_thread.py:44 * 1132738912 Thread exit method has been called, quit
+INFO: 11-24 15:54:29: work_thread.py:44 * 1143228768 Thread exit method has been called, quit
+INFO: 11-24 15:54:29: work_thread.py:44 * 1122249056 Thread exit method has been called, quit
+INFO: 11-24 15:54:29: work_thread.py:44 * 1153718624 Thread exit method has been called, quit
+INFO: 11-24 15:54:29: work_thread.py:44 * 1164208480 Thread exit method has been called, quit
+INFO: 11-24 15:58:23: spider.py:123 * 1101875552 Invalid url: javascript://pycm.baidu.com:8081/location.href="page4.html"
+ERROR: 11-24 15:58:24: spider.py:74 * 1154324832 HTTP ERROR http://pycm.baidu.com:8081/page4.html: HTTP Error 404: Not Found
+INFO: 11-24 15:58:24: spider.py:123 * 1122855264 Invalid url: javascript://pycm.baidu.com:8081/location.href="page4.html"
+INFO: 11-24 15:58:24: spider.py:59 * 1112365408 Url has been fetched: http://pycm.baidu.com:8081/mirror/index.html
+INFO: 11-24 15:58:24: spider.py:59 * 1122855264 Url has been fetched: http://pycm.baidu.com:8081/page4.html
+INFO: 11-24 15:58:24: spider.py:59 * 1087306080 Url has been fetched: http://pycm.baidu.com:8081/page1.html
+INFO: 11-24 15:58:24: spider.py:59 * 1133345120 Url has been fetched: http://pycm.baidu.com:8081/page2.html
+INFO: 11-24 15:58:24: spider.py:59 * 1133345120 Url has been fetched: http://pycm.baidu.com:8081/page3.html
+ERROR: 11-24 15:58:25: spider.py:74 * 1112365408 HTTP ERROR http://pycm.baidu.com:8081/1/page1_3.html: HTTP Error 404: Not Found
+ERROR: 11-24 15:58:25: spider.py:74 * 1164814688 HTTP ERROR http://pycm.baidu.com:8081/1/page1_4.html: HTTP Error 404: Not Found
+INFO: 11-24 15:58:30: work_thread.py:44 * 1143834976 Thread exit method has been called, quit
+INFO: 11-24 15:58:30: work_thread.py:44 * 1122855264 Thread exit method has been called, quit
+INFO: 11-24 15:58:30: work_thread.py:44 * 1101875552 Thread exit method has been called, quit
+INFO: 11-24 15:58:30: work_thread.py:44 * 1112365408 Thread exit method has been called, quit
+INFO: 11-24 15:58:30: work_thread.py:44 * 1154324832 Thread exit method has been called, quit
+INFO: 11-24 15:58:30: work_thread.py:44 * 1087306080 Thread exit method has been called, quit
+INFO: 11-24 15:58:30: work_thread.py:44 * 1164814688 Thread exit method has been called, quit
+INFO: 11-24 15:58:30: work_thread.py:44 * 1133345120 Thread exit method has been called, quit
+INFO: 11-24 16:03:36: spider.py:123 * 1092045152 Invalid url: javascript://pycm.baidu.com:8081/location.href="page4.html"
+ERROR: 11-24 16:03:37: spider.py:74 * 1142233440 HTTP ERROR http://pycm.baidu.com:8081/page4.html: HTTP Error 404: Not Found
+INFO: 11-24 16:03:37: spider.py:59 * 1121253728 Url has been fetched: http://pycm.baidu.com:8081/page2.html
+INFO: 11-24 16:03:37: spider.py:59 * 1121253728 Url has been fetched: http://pycm.baidu.com:8081/page1.html
+INFO: 11-24 16:03:37: spider.py:123 * 1131743584 Invalid url: javascript://pycm.baidu.com:8081/location.href="page4.html"
+INFO: 11-24 16:03:37: spider.py:59 * 1121253728 Url has been fetched: http://pycm.baidu.com:8081/page3.html
+INFO: 11-24 16:03:37: spider.py:59 * 1131743584 Url has been fetched: http://pycm.baidu.com:8081/page4.html
+INFO: 11-24 16:03:37: spider.py:59 * 1121253728 Url has been fetched: http://pycm.baidu.com:8081/mirror/index.html
+ERROR: 11-24 16:03:38: spider.py:74 * 1110763872 HTTP ERROR http://pycm.baidu.com:8081/1/page1_4.html: HTTP Error 404: Not Found
+ERROR: 11-24 16:03:38: spider.py:74 * 1152723296 HTTP ERROR http://pycm.baidu.com:8081/1/page1_3.html: HTTP Error 404: Not Found
+INFO: 11-24 16:03:43: work_thread.py:44 * 1142233440 Thread exit method has been called, quit
+INFO: 11-24 16:03:43: work_thread.py:44 * 1092045152 Thread exit method has been called, quit
+INFO: 11-24 16:03:43: work_thread.py:44 * 1121253728 Thread exit method has been called, quit
+INFO: 11-24 16:03:43: work_thread.py:44 * 1110763872 Thread exit method has been called, quit
+INFO: 11-24 16:03:43: work_thread.py:44 * 1131743584 Thread exit method has been called, quit
+INFO: 11-24 16:03:43: work_thread.py:44 * 1173703008 Thread exit method has been called, quit
+INFO: 11-24 16:03:43: work_thread.py:44 * 1163213152 Thread exit method has been called, quit
+INFO: 11-24 16:03:43: work_thread.py:44 * 1152723296 Thread exit method has been called, quit
+INFO: 11-24 16:03:52: spider.py:123 * 1087203680 Invalid url: javascript://pycm.baidu.com:8081/location.href="page4.html"
+ERROR: 11-24 16:03:53: spider.py:74 * 1136208224 HTTP ERROR http://pycm.baidu.com:8081/page4.html: HTTP Error 404: Not Found
+INFO: 11-24 16:03:53: spider.py:59 * 1115228512 Url has been fetched: http://pycm.baidu.com:8081/page3.html
+INFO: 11-24 16:03:53: spider.py:123 * 1125718368 Invalid url: javascript://pycm.baidu.com:8081/location.href="page4.html"
+INFO: 11-24 16:03:53: spider.py:59 * 1115228512 Url has been fetched: http://pycm.baidu.com:8081/page1.html
+INFO: 11-24 16:03:53: spider.py:59 * 1125718368 Url has been fetched: http://pycm.baidu.com:8081/page4.html
+INFO: 11-24 16:03:53: spider.py:59 * 1125718368 Url has been fetched: http://pycm.baidu.com:8081/mirror/index.html
+INFO: 11-24 16:03:54: spider.py:59 * 1104738656 Url has been fetched: http://pycm.baidu.com:8081/page2.html
+ERROR: 11-24 16:03:54: spider.py:74 * 1087203680 HTTP ERROR http://pycm.baidu.com:8081/1/page1_4.html: HTTP Error 404: Not Found
+ERROR: 11-24 16:03:54: spider.py:74 * 1167677792 HTTP ERROR http://pycm.baidu.com:8081/1/page1_3.html: HTTP Error 404: Not Found
+INFO: 11-24 16:03:59: work_thread.py:44 * 1104738656 Thread exit method has been called, quit
+INFO: 11-24 16:03:59: work_thread.py:44 * 1146698080 Thread exit method has been called, quit
+INFO: 11-24 16:03:59: work_thread.py:44 * 1115228512 Thread exit method has been called, quit
+INFO: 11-24 16:03:59: work_thread.py:44 * 1087203680 Thread exit method has been called, quit
+INFO: 11-24 16:03:59: work_thread.py:44 * 1136208224 Thread exit method has been called, quit
+INFO: 11-24 16:03:59: work_thread.py:44 * 1125718368 Thread exit method has been called, quit
+INFO: 11-24 16:03:59: work_thread.py:44 * 1167677792 Thread exit method has been called, quit
+INFO: 11-24 16:03:59: work_thread.py:44 * 1157187936 Thread exit method has been called, quit
+INFO: 11-25 12:06:05: spider.py:123 * 1114315104 Invalid url: javascript://pycm.baidu.com:8081/location.href="page4.html"
+ERROR: 11-25 12:06:06: spider.py:74 * 1094461792 HTTP ERROR http://pycm.baidu.com:8081/page4.html: HTTP Error 404: Not Found
+INFO: 11-25 12:06:07: spider.py:123 * 1145784672 Invalid url: javascript://pycm.baidu.com:8081/location.href="page4.html"
+INFO: 11-25 12:06:07: spider.py:59 * 1094461792 Url has been fetched: http://pycm.baidu.com:8081/page2.html
+INFO: 11-25 12:06:07: spider.py:59 * 1145784672 Url has been fetched: http://pycm.baidu.com:8081/page1.html
+INFO: 11-25 12:06:07: spider.py:59 * 1124804960 Url has been fetched: http://pycm.baidu.com:8081/page4.html
+INFO: 11-25 12:06:07: spider.py:59 * 1135294816 Url has been fetched: http://pycm.baidu.com:8081/page3.html
+INFO: 11-25 12:06:07: spider.py:59 * 1145784672 Url has been fetched: http://pycm.baidu.com:8081/mirror/index.html
+ERROR: 11-25 12:06:08: spider.py:74 * 1124804960 HTTP ERROR http://pycm.baidu.com:8081/1/page1_3.html: HTTP Error 404: Not Found
+ERROR: 11-25 12:06:08: spider.py:74 * 1166764384 HTTP ERROR http://pycm.baidu.com:8081/1/page1_4.html: HTTP Error 404: Not Found
+INFO: 11-25 12:06:13: work_thread.py:44 * 1114315104 Thread exit method has been called, quit
+INFO: 11-25 12:06:13: work_thread.py:44 * 1135294816 Thread exit method has been called, quit
+INFO: 11-25 12:06:13: work_thread.py:44 * 1124804960 Thread exit method has been called, quit
+INFO: 11-25 12:06:13: work_thread.py:44 * 1145784672 Thread exit method has been called, quit
+INFO: 11-25 12:06:13: work_thread.py:44 * 1094461792 Thread exit method has been called, quit
+INFO: 11-25 12:06:13: work_thread.py:44 * 1166764384 Thread exit method has been called, quit
+INFO: 11-25 12:06:13: work_thread.py:44 * 1156274528 Thread exit method has been called, quit
+INFO: 11-25 12:06:13: work_thread.py:44 * 1177254240 Thread exit method has been called, quit

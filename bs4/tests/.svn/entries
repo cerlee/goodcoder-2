@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://svn.baidu.com/goodcoder/trunk/shechenglu/Python-id-3731/bs4/tests
+https://svn.baidu.com/goodcoder
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+688347a3-1a7e-4d08-b7af-20cad322083a
+
+test_lxml.py
+file
+
+
+
+add
+
+test_builder_registry.py
+file
+
+
+
+add
+
+test_tree.py
+file
+
+
+
+add
+
+__init__.py
+file
+
+
+
+add
+
+test_html5lib.py
+file
+
+
+
+add
+
+test_htmlparser.py
+file
+
+
+
+add
+
+test_soup.py
+file
+
+
+
+add
+
+test_docs.py
+file
+
+
+
+add
+
